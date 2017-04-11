@@ -1,0 +1,50 @@
+#+TITLE: Data Structures
+#+AUTHOR: Carl Su
+
+* Stack
+- ~empty~
+- ~size~
+- ~top~
+- ~push~
+- ~pop~
+
+* Queue
+- ~empty~
+- ~size~
+- ~front~
+- ~push~
+- ~pop~
+
+* Deque
+- ~empty~
+- ~size~
+- ~front~
+- ~back~
+- ~push_front~
+- ~push_back~
+- ~pop_front~
+- ~pop_back~
+
+* ForwardList
+- ~empty~
+- ~front~
+- ~push_front~
+- ~pop_front~
+- ~clear~
+- ~reverse~
+
+* List
+- ~empty~
+- ~size~
+- ~front~
+- ~back~
+- ~push_front~
+- ~pop_front~
+- ~push_back~
+- ~pop_back~
+- ~clear~
+- ~reverse~
+
+* Make Options
+- ~make~
+- ~make test~
